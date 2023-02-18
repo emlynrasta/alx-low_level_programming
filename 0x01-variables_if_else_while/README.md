@@ -2,3 +2,4 @@
 0-positive_or_negative.c - assigns a random number to variable n, every time func is run 
 1-last_digit -print last digit stored in random interger n
 2-print_alphabet -  prints the alphabet in lowercase, followed by a new line.
+3-print_alphabets.c -  prints the alphabet in lowercase, and then in uppercase, followed by a new line.
