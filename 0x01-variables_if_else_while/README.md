@@ -3,3 +3,4 @@
 1-last_digit -print last digit stored in random interger n
 2-print_alphabet -  prints the alphabet in lowercase, followed by a new line.
 3-print_alphabets.c -  prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+4-print_alphabt.c -  prints the alphabet in lowercase except q and e
