@@ -6,7 +6,7 @@
  * Return: a * b
  */
 
-int _isupper(int a, int b)
+int mul(int a, int b)
 {
 	return (a * b);
 }
