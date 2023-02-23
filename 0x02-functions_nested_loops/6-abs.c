@@ -9,14 +9,8 @@
 
 int _abs(int c)
 {
-	if (c < 0)
-	{
-		int abs_val;
-
-		abs_val = c * -1;
-
-		return (abs_val);
-	}
-
-	return (0);
+	if (n >= 0)
+		return (0);
+	else
+		return (-c);
 }
