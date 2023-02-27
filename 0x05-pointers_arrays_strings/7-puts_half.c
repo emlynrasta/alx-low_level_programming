@@ -22,6 +22,7 @@ void puts_half(char *str)
 	} else if (j % 2 != 0)
 	{
 		mid = (j - 1) / 2;
+		mid += 1;
 	}
 
 	for (; str[mid] != '\0'; mid++)
